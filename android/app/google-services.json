@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35514987069",
+    "project_id": "vote-ssn8ol",
+    "storage_bucket": "vote-ssn8ol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35514987069:android:9434d73503ef2c9080f054",
+        "android_client_info": {
+          "package_name": "com.mycompany.vote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADsPpLItz3UG4GKLThp3bJPstdRF01ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
